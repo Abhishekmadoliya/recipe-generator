@@ -27,7 +27,7 @@ function Searchbox() {
         setErrorMessage("No dish found. Please enter a valid dish name.");
       }
     } catch (error) {
-      setErrorMessage("An error occurred while fetching the dish.");
+      setErrorMessage("An error occurred while fetching the dish.", error);
     }
   }
 
