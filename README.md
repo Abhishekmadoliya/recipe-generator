@@ -1,10 +1,10 @@
 Here's a suggested content for the `README.md` file for your **Recipe Generator** project:
 
+view live here: https://recipe-generator-nine-nu.vercel.app/
 ```markdown
 # Recipe Generator
 
 Welcome to the **Recipe Generator** repository! This project is designed to provide users with an easy-to-use platform for generating recipes based on ingredients, cuisine preferences, or random selections. The goal is to make cooking fun, accessible, and engaging for users of all skill levels.
-view live here: https://recipe-generator-nine-nu.vercel.app/
 ---
 
 ## Features
